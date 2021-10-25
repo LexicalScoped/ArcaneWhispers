@@ -1,20 +1,20 @@
 Build Player Class (MODEL for SQLalchemy)
 - Player_ID  (based on Discord User ID) [x]
 - Player_Name (ONLY FOR OUTPUT TO STRING) [x]
-- Class [x]
+- Class [ ]
 - Base Damage [x]
-- Level [x]
+- Level [ ]
 - Current_Exp / Max_Exp [x]
 - Current_HP / Max_HP [x]
-- Currect_AP / Max_AP [x]
+- Currect_AP / Max_AP [ ]
 
 
 Build MOB Class (MODEL for SQLalchemy)
-- MOB_NAME
-- Current_HP / Max_HP
-- Currect_AP / Max_AP
-- Min_Exp_Yield / Max_Exp_Yield
-- Base Damage
+- MOB_NAME [x]
+- Current_HP / Max_HP [x]
+- Currect_AP / Max_AP [ ]
+- base_experience_value [x]
+- Base Damage [x]
 
 Build Join function for players to register new player
 
