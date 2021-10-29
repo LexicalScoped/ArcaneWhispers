@@ -11,14 +11,14 @@ Build Player Class (MODEL for SQLalchemy)
 
 Build MOB Class (MODEL for SQLalchemy)
 - MOB_NAME [x]
-- Current_HP / Max_HP [x]
-- Currect_AP / Max_AP [ ]
+- Max_HP [x]
+- Max_AP [ ]
 - base_experience_value [x]
 - Base Damage [x]
 
-Build Join function for players to register new player
+Build Join function for players to register new player [x]
 
-Build resting function to heal and recover players
+Build resting function to heal and recover players 
 
 Build initial combat engine (base attacks and calculation for damage)
 
